@@ -1,4 +1,4 @@
-Power BI Sales Dashboard 
+<h1> Power BI Sales Dashboard </h1>
 The project covers essential steps from data gathering and cleaning to visualization design and deployment, empowering users to create insightful and visually appealing dashboards for effective data-driven decision-making.
 
 Objective and Business Problem
